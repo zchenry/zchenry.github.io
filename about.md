@@ -7,9 +7,9 @@ news: True
 ---
 
 I am a 2nd year PhD student under the supervision of
-[Prof. Issei Sato](http://www.ms.k.u-tokyo.ac.jp/sato/) in
-[Sato laboratory](https://www.ml.is.s.u-tokyo.ac.jp/),
-[Department of Computer Science](https://www.is.s.u-tokyo.ac.jp/english/),
+[Prof. Issei Sato](http://www.ms.k.u-tokyo.ac.jp/sato) in
+[Sato laboratory](https://www.ml.is.s.u-tokyo.ac.jp),
+[Department of Computer Science](https://www.is.s.u-tokyo.ac.jp/english),
 [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 You can find my CV at [here]({{ site.url }}/files/cv.pdf).
 
@@ -23,6 +23,12 @@ More specifically, my research topics include:
 <div class='news'>
   <h4>News</h4>
   <table>
+    <tr>
+      <td class='date'>Apr 29, 2020</td>
+      <td class='announcement'>
+        I attended <a href='https://internship.cookpad.com'>Cookpad Online Sprint Internship</a>.
+      </td>
+    </tr>
     <tr>
       <td class='date'>Apr 21, 2020</td>
       <td class='announcement'>I largely updated the site design.</td>
@@ -45,7 +51,7 @@ More specifically, my research topics include:
       <td>1.</td>
       <td>Bayesian Posterior Approximation via Greedy Particle Optimization<br>
       Futami,F.,<strong>Cui, Z.</strong>,Sato,I., & Sugiyama,M.<br>
-      <em>Proceedings of the <a href='https://aaai.org/Conferences/AAAI-19/'>Thirty-Third AAAI Conference on Artificial Intelligence (AAAI2019)</a>, Honolulu, Hawaii, USA, Jan. 27-Feb. 1, 2019.</em><br>
+      <em>Proceedings of the <a href='https://aaai.org/Conferences/AAAI-19'>Thirty-Third AAAI Conference on Artificial Intelligence (AAAI2019)</a>, Honolulu, Hawaii, USA, Jan. 27-Feb. 1, 2019.</em><br>
       [<a href='https://www.aaai.org/ojs/index.php/AAAI/article/view/4241'>link</a>]
       [<a href='https://arxiv.org/abs/1805.07912'>arXiv</a>]</td>
     </tr>
