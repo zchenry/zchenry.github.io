@@ -24,9 +24,15 @@ More specifically, my research topics include:
   <h4>News</h4>
   <table>
     <tr>
+      <td class='date'>May 20, 2020</td>
+      <td class='announcement'>
+	    I am awarded <a href='https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/index.html'>AIP Challenge Program</a> for one million yen research budget.
+      </td>
+    </tr>
+    <tr>
       <td class='date'>Apr 29, 2020</td>
       <td class='announcement'>
-        I attended <a href='https://internship.cookpad.com'>Cookpad Online Sprint Internship</a>.
+        I attended <a href='https://internship.cookpad.com'>Cookpad Online Spring Internship</a>.
       </td>
     </tr>
     <tr>
