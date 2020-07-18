@@ -24,9 +24,23 @@ More specifically, my research topics include:
   <h4>News</h4>
   <table>
     <tr>
+      <td class='date'>Jul 9, 2020</td>
+      <td class='announcement'>
+        Our paper <a href='https://realworldml.github.io/files/cr/7_cui_paper.pdf'>Active Learning Using Discrepancy</a>
+        has been accepted to
+        <a href='https://realworldml.github.io/'>ICML 2020 Workshop on Real World Experiment Design and Active Learning</a>.
+      </td>
+    </tr>
+    <tr>
+      <td class='date'>Jul 1, 2020</td>
+      <td class='announcement'>
+        I started my three-month research internship at <a href='https://www.nablas.com'>Nablas</a>.
+      </td>
+    </tr>
+    <tr>
       <td class='date'>May 20, 2020</td>
       <td class='announcement'>
-	    I am awarded <a href='https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/index.html'>AIP Challenge Program</a> for one million yen research budget.
+	    I was awarded <a href='https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/index.html'>AIP Challenge Program</a> for one million yen research budget.
       </td>
     </tr>
     <tr>
@@ -43,8 +57,8 @@ More specifically, my research topics include:
       <td class='date'>Nov 10, 2019</td>
       <td class='announcement'>
         Our paper <a href='https://arxiv.org/abs/1907.10225'>Classification from Triplet Comparison Data</a>
-	has been accepted to
-	<a href='https://www.mitpressjournals.org/loi/neco'>Neural Computation</a>.
+        has been accepted to
+        <a href='https://www.mitpressjournals.org/loi/neco'>Neural Computation</a>.
       </td>
     </tr>
   </table>
