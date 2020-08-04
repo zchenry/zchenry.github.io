@@ -11,7 +11,7 @@ I am a 2nd year PhD student under the supervision of
 [Sato laboratory](https://www.ml.is.s.u-tokyo.ac.jp),
 [Department of Computer Science](https://www.is.s.u-tokyo.ac.jp/english),
 [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
-You can find my CV at [here]({{ site.url }}/files/cv.pdf).
+You can find my CV at [here]({{ site.url }}/assets/files/cv.pdf).
 
 **Research Interests:**
 I am interested in designing and analyzing data-efficient machine learning algorithms.
