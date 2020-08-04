@@ -24,6 +24,13 @@ More specifically, my research topics include:
   <h4>News</h4>
   <table>
     <tr>
+      <td class='date'>Aug 4, 2020</td>
+      <td class='announcement'>
+        Our preprint <a href='https://arxiv.org/abs/2008.00645'>Classification from Ambiguity Comparisons</a>
+        has been made public.
+      </td>
+    </tr>
+    <tr>
       <td class='date'>Jul 9, 2020</td>
       <td class='announcement'>
         Our paper <a href='https://realworldml.github.io/files/cr/7_cui_paper.pdf'>Active Learning Using Discrepancy</a>
