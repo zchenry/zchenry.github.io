@@ -21,7 +21,7 @@ More specifically, my research topics include:
 - Learning with Comparison Information
 
 <div class='news'>
-  <h4>News</h4>
+  <h4><b>News</b></h4>
   <table>
     <tr>
       <td class='date'>Aug 4, 2020</td>
@@ -72,24 +72,32 @@ More specifically, my research topics include:
 </div>
 
 <div class='news'>
-  <h4>Conference Papers</h4>
-  <table class='publications'>
+  <h4><b>Preprints</b></h4>
+  <table>
     <tr>
-      <td>1.</td>
+      <td>Classification from Ambiguity Comparisons<br>
+      <i>Cui, Z.</i>, & Sato,I.<br>
+      [<a href='https://arxiv.org/abs/2008.00645'>arXiv</a>]
+      [<a href='https://github.com/zchenry/ambiguity-comparison'>code</a>]</td>
+    </tr>
+  </table>
+
+  <h4><b>Conference Papers</b></h4>
+  <table>
+    <tr>
       <td>Bayesian Posterior Approximation via Greedy Particle Optimization<br>
-      Futami,F.,<strong>Cui, Z.</strong>,Sato,I., & Sugiyama,M.<br>
+      Futami,F.,<i>Cui, Z.</i>,Sato,I., & Sugiyama,M.<br>
       <em>Proceedings of the <a href='https://aaai.org/Conferences/AAAI-19'>Thirty-Third AAAI Conference on Artificial Intelligence (AAAI2019)</a>, Honolulu, Hawaii, USA, Jan. 27-Feb. 1, 2019.</em><br>
       [<a href='https://www.aaai.org/ojs/index.php/AAAI/article/view/4241'>link</a>]
       [<a href='https://arxiv.org/abs/1805.07912'>arXiv</a>]</td>
     </tr>
   </table>
 
-  <h4>Journal Papers</h4>
+  <h4><b>Journal Papers</b></h4>
   <table>
     <tr>
-      <td>2.</td>
       <td>Classification from Triplet Comparison Data<br>
-      <strong>Cui, Z.</strong>,Charoenphakdee,N.,Sato,I., & Sugiyama,M.<br>
+      <i>Cui, Z.</i>,Charoenphakdee,N.,Sato,I., & Sugiyama,M.<br>
       <em><a href='https://www.mitpressjournals.org/loi/neco'>Neural Computation</a></em>,
       Volume 32, Issue 3, p.659-681, March 2020.<br>
       [<a href='https://www.mitpressjournals.org/doi/full/10.1162/neco_a_01262'>link</a>]
@@ -97,9 +105,8 @@ More specifically, my research topics include:
       [<a href='https://github.com/zchenry/triplet_classification'>code</a>]</td>
     </tr>
     <tr>
-      <td>1.</td>
       <td>Stochastic Divergence Minimization for Biterm Topic Models<br>
-      <strong>Cui, Z.</strong>,Sato,I., & Sugiyama,M.<br>
+      <i>Cui, Z.</i>,Sato,I., & Sugiyama,M.<br>
       <em><a href='https://www.jstage.jst.go.jp/browse/transinf'>IEICE TRANSACTIONS on Information and Systems</a></em>, Volume E101.D, Issue 3, p.668-677, 2018.<br>
       [<a href='https://www.jstage.jst.go.jp/article/transinf/E101.D/3/E101.D_2017EDP7310/_article/-char/en'>link</a>]
       [<a href='https://arxiv.org/abs/1705.00394'>arXiv</a>]</td>
