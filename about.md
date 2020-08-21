@@ -24,6 +24,12 @@ More specifically, my research topics include:
   <h4><b>News</b></h4>
   <table>
     <tr>
+      <td class='date'>Aug 21, 2020</td>
+      <td class='announcement'>
+        I won 2nd place in <a href='https://www.facebook.com/UTAI4Good'>The University of Tokyo AI for Good Contest 2020</a>.
+      </td>
+    </tr>
+    <tr>
       <td class='date'>Aug 4, 2020</td>
       <td class='announcement'>
         Our preprint <a href='https://arxiv.org/abs/2008.00645'>Classification from Ambiguity Comparisons</a>
