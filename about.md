@@ -2,7 +2,7 @@
 layout: about
 permalink: /about
 title: Zhenghang (Henry) Cui
-description: 崔 正行 (さい まさゆき), 최 정행
+description: 崔 正行 (さい まさゆき, 최 정행)
 news: True
 ---
 
