@@ -24,6 +24,12 @@ More specifically, my research topics include:
   <h4><b>News</b></h4>
   <table>
     <tr>
+      <td class='date'>Sep 18, 2020</td>
+      <td class='announcement'>
+	    Our team won a bronze medal (103rd place of 1390 teams) at <a href='https://www.kaggle.com/c/birdsong-recognition'>Cornell Birdcall Identification</a>.
+      </td>
+    </tr>
+    <tr>
       <td class='date'>Aug 21, 2020</td>
       <td class='announcement'>
         I won 2nd place in <a href='https://www.facebook.com/UTAI4Good'>The University of Tokyo AI for Good Contest 2020</a>.
