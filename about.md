@@ -6,7 +6,7 @@ description: 崔 正行 (さい まさゆき, 최 정행)
 news: True
 ---
 
-I am a 2nd year PhD student under the supervision of
+I am a second year PhD student under the supervision of
 [Prof. Issei Sato](http://www.ms.k.u-tokyo.ac.jp/sato) in
 [Sato laboratory](https://www.ml.is.s.u-tokyo.ac.jp),
 [Department of Computer Science](https://www.is.s.u-tokyo.ac.jp/english),
@@ -16,7 +16,7 @@ You can find my CV at [here]({{ site.url }}/assets/files/cv.pdf).
 **Research Interests:**
 I am interested in designing and analyzing data-efficient machine learning algorithms.
 More specifically, my research topics include:
-- Weakly Supervised Learning
+- Weakly-supervised Learning
 - Active Learning
 - Learning with Comparison Information
 
@@ -26,13 +26,19 @@ More specifically, my research topics include:
     <tr>
       <td class='date'>Sep 18, 2020</td>
       <td class='announcement'>
-	    Our team won a bronze medal (103rd place of 1390 teams) at <a href='https://www.kaggle.com/c/birdsong-recognition'>Cornell Birdcall Identification</a>.
+	    Our team won a bronze medal (103rd place of 1390 teams) at <a href='https://www.kaggle.com/c/birdsong-recognition'>Kaggle Cornell Birdcall Identification Competition</a>.
+      </td>
+    </tr>
+    <tr>
+      <td class='date'>Sep 17, 2020</td>
+      <td class='announcement'>
+	    Our team won the <a href='https://ai-competition.biz/stage1-result/'>Excellence Award</a> at <a href='https://ai-competition.biz/'>BIGDATA x AI Competition</a> Stage 1.
       </td>
     </tr>
     <tr>
       <td class='date'>Aug 21, 2020</td>
       <td class='announcement'>
-        I won 2nd place in <a href='https://www.facebook.com/UTAI4Good'>The University of Tokyo AI for Good Contest 2020</a>.
+        I won second place in <a href='https://www.facebook.com/UTAI4Good'>The University of Tokyo AI for Good Contest 2020</a>.
       </td>
     </tr>
     <tr>
