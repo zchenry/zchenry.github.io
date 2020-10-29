@@ -24,6 +24,20 @@ More specifically, my research topics include:
   <h4><b>News</b></h4>
   <table>
     <tr>
+      <td class='date'>Oct 24, 2020</td>
+      <td class='announcement'>
+        Our preprint <a href='https://arxiv.org/abs/2010.12905'>ATRO: Adversarial Training with a Rejection Option</a>
+        has been uploaded.
+      </td>
+    </tr>
+    <tr>
+      <td class='date'>Oct 23, 2020</td>
+      <td class='announcement'>
+        Our preprint <a href='https://arxiv.org/abs/2010.11748'>Classification with Rejection Based on Cost-sensitive Classification</a>
+        has been uploaded.
+      </td>
+    </tr>
+    <tr>
       <td class='date'>Sep 18, 2020</td>
       <td class='announcement'>
 	    Our team won a bronze medal (103rd place of 1390 teams) at <a href='https://www.kaggle.com/c/birdsong-recognition'>Kaggle Cornell Birdcall Identification Competition</a>.
@@ -44,8 +58,8 @@ More specifically, my research topics include:
     <tr>
       <td class='date'>Aug 4, 2020</td>
       <td class='announcement'>
-        Our preprint <a href='https://arxiv.org/abs/2008.00645'>Classification from Ambiguity Comparisons</a>
-        has been made public.
+        Our preprint <a href='https://arxiv.org/abs/2008.00645'>Active Classification with Uncertainty Comparison Queries</a>
+        has been uploaded.
       </td>
     </tr>
     <tr>
@@ -93,10 +107,20 @@ More specifically, my research topics include:
   <h4><b>Preprints</b></h4>
   <table>
     <tr>
-      <td>Classification from Ambiguity Comparisons<br>
+      <td>ATRO: Adversarial Training with a Rejection Option<br>
+      Kato,M.,<i>Cui, Z.</i>, & Fukuhara,Y.<br>
+      [<a href='https://arxiv.org/abs/2010.12905'>arXiv</a>]</td>
+    </tr>
+    <tr>
+      <td>Classification with Rejection Based on Cost-sensitive Classification<br>
+      Charoenphakdee,N.,<i>Cui, Z.</i>,Zhang,Y., & Sugiyama,M.<br>
+      [<a href='https://arxiv.org/abs/2010.11748'>arXiv</a>]</td>
+    </tr>
+    <tr>
+      <td>Active Classification with Uncertainty Comparison Queries<br>
       <i>Cui, Z.</i>, & Sato,I.<br>
       [<a href='https://arxiv.org/abs/2008.00645'>arXiv</a>]
-      [<a href='https://github.com/zchenry/ambiguity-comparison'>code</a>]</td>
+      [<a href='https://github.com/zchenry/uncertainty-comparison'>code</a>]</td>
     </tr>
   </table>
 
