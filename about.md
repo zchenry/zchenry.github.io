@@ -24,6 +24,12 @@ More specifically, my research topics include:
   <h4><b>News</b></h4>
   <table>
     <tr>
+      <td class='date'>Dec 11, 2020</td>
+      <td class='announcement'>
+        I won <a href='https://www.youracclaim.com/users/zchenry/badges'>a foundational badge</a> in IBM Quantum Challenge Fall 2020.
+      </td>
+    </tr>
+    <tr>
       <td class='date'>Oct 24, 2020</td>
       <td class='announcement'>
         Our preprint <a href='https://arxiv.org/abs/2010.12905'>ATRO: Adversarial Training with a Rejection Option</a>
@@ -52,7 +58,7 @@ More specifically, my research topics include:
     <tr>
       <td class='date'>Aug 21, 2020</td>
       <td class='announcement'>
-        I won second place in <a href='https://www.facebook.com/UTAI4Good'>The University of Tokyo AI for Good Contest 2020</a>.
+        I won <a href='https://zchenry.github.io/assets/files/UTAI4Good2020.pdf'>second place</a> in <a href='https://www.facebook.com/UTAI4Good'>The University of Tokyo AI for Good Contest 2020</a>.
       </td>
     </tr>
     <tr>
