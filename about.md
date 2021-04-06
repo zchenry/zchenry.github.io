@@ -6,7 +6,7 @@ description: 崔 正行 (さい まさゆき, 최 정행)
 news: True
 ---
 
-I am a second year PhD student under the supervision of
+I am a 3rd year PhD student under the supervision of
 [Prof. Issei Sato](http://www.ms.k.u-tokyo.ac.jp/sato) in
 [Sato laboratory](https://www.ml.is.s.u-tokyo.ac.jp),
 [Department of Computer Science](https://www.is.s.u-tokyo.ac.jp/english),
