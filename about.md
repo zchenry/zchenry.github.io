@@ -24,6 +24,14 @@ More specifically, my research topics include:
   <h4><b>News</b></h4>
   <table>
     <tr>
+      <td class='date'>May 8, 2021</td>
+      <td class='announcement'>
+        Our paper <a href='https://arxiv.org/abs/2010.11748'>Classification with Rejection Based on Cost-sensitive Classification</a>
+        has been accepted to
+        <a href='https://icml.cc'>ICML 2021</a>.
+      </td>
+    </tr>
+    <tr>
       <td class='date'>Dec 11, 2020</td>
       <td class='announcement'>
         I won <a href='https://www.youracclaim.com/users/zchenry/badges'>a foundational badge</a> in IBM Quantum Challenge Fall 2020.
@@ -118,11 +126,6 @@ More specifically, my research topics include:
       [<a href='https://arxiv.org/abs/2010.12905'>arXiv</a>]</td>
     </tr>
     <tr>
-      <td>Classification with Rejection Based on Cost-sensitive Classification<br>
-      Charoenphakdee,N.,<i>Cui, Z.</i>,Zhang,Y., & Sugiyama,M.<br>
-      [<a href='https://arxiv.org/abs/2010.11748'>arXiv</a>]</td>
-    </tr>
-    <tr>
       <td>Active Classification with Uncertainty Comparison Queries<br>
       <i>Cui, Z.</i>, & Sato,I.<br>
       [<a href='https://arxiv.org/abs/2008.00645'>arXiv</a>]
@@ -133,9 +136,15 @@ More specifically, my research topics include:
   <h4><b>Conference Papers</b></h4>
   <table>
     <tr>
+      <td>Classification with Rejection Based on Cost-sensitive Classification<br>
+      Charoenphakdee,N.,<i>Cui, Z.</i>,Zhang,Y., & Sugiyama,M.<br>
+      <em>Proceedings of the <a href='https://icml.cc'>Thirty-eighth International Conference on Machine Learning (ICML 2021)</a>, Jul. 18-Jul. 24, 2021.</em><br>
+      [<a href='https://arxiv.org/abs/2010.11748'>arXiv</a>]</td>
+    </tr>
+    <tr>
       <td>Bayesian Posterior Approximation via Greedy Particle Optimization<br>
       Futami,F.,<i>Cui, Z.</i>,Sato,I., & Sugiyama,M.<br>
-      <em>Proceedings of the <a href='https://aaai.org/Conferences/AAAI-19'>Thirty-Third AAAI Conference on Artificial Intelligence (AAAI2019)</a>, Honolulu, Hawaii, USA, Jan. 27-Feb. 1, 2019.</em><br>
+      <em>Proceedings of the <a href='https://aaai.org/Conferences/AAAI-19'>Thirty-third AAAI Conference on Artificial Intelligence (AAAI 2019)</a>, Honolulu, Hawaii, USA, Jan. 27-Feb. 1, 2019.</em><br>
       [<a href='https://www.aaai.org/ojs/index.php/AAAI/article/view/4241'>link</a>]
       [<a href='https://arxiv.org/abs/1805.07912'>arXiv</a>]</td>
     </tr>
