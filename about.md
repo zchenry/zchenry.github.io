@@ -7,7 +7,7 @@ news: True
 ---
 
 I am a 3rd year PhD student under the supervision of
-[Prof. Issei Sato](http://www.ms.k.u-tokyo.ac.jp/sato) in
+[Prof. Issei Sato](https://www.ml.is.s.u-tokyo.ac.jp/issei-sato-en) in
 [Sato laboratory](https://www.ml.is.s.u-tokyo.ac.jp),
 [Department of Computer Science](https://www.is.s.u-tokyo.ac.jp/english),
 [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
