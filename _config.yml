@@ -1,5 +1,5 @@
 email: z.henry.cui@gmail.com
-description: Henry's Personal Page
+description: Henry's Page
 footer_text: >
   Powered by <a href='http://jekyllrb.com/' target='_blank'>Jekyll</a> with <a href='https://github.com/alshedivat/al-folio'>al-folio</a> theme.
 url: 'https://blog.henryfren.ch'
@@ -9,19 +9,8 @@ timezone: Japan/Tokyo
 serve_og_meta: true
 google_analytics: UA-157024944-1
 
-blog_name: Henry's Blog
+blog_name: Henry's Page
 blog_description: Machine Learning and Algorithms
-
-paginate: 5
-permalink: /:title/
-paginate_path: /:num/
-
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-
-disqus_shortname: zchenry
 
 show_social_icons:  false
 enable_anchorjs:    false
@@ -30,12 +19,7 @@ enable_katex:       true
 markdown: kramdown
 highlighter: rouge
 
-include: ['_pages']
 exclude: [vendor]
-
-plugins:
-    - jekyll-email-protect
-    - jekyll-paginate
 
 jquery_version: '1.12.4'
 katex_version: '0.9.0'
